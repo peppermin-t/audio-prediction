@@ -1,0 +1,3 @@
+*.npz
+*.npy
+test.py
